@@ -1,0 +1,1048 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 10:38:12] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 10:38:18] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 10:39:53] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 10:39:55] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 10:40:22] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 10:40:23] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 10:40:40] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 10:40:42] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 10:41:25] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 10:41:26] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 10:42:08] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 10:42:09] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 13:06:50] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:Error calling Bedrock: An error occurred (ValidationException) when calling the InvokeModel operation: The provided model identifier is invalid.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 13:06:52] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\drago\\OneDrive\\Desktop\\Work fisnihed but gonna die\\HW1\\Chatbot-project\\Nongmakok V.1\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 13:08:41] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 13:08:44] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\drago\\OneDrive\\Desktop\\Work fisnihed but gonna die\\HW1\\Chatbot-project\\Nongmakok V.1\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 13:09:47] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:Error calling Bedrock: An error occurred (ValidationException) when calling the InvokeModel operation: The provided model identifier is invalid.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 13:09:48] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 13:11:37] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:Error calling Bedrock: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: extraneous key [textGenerationConfig] is not permitted, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 13:11:39] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\drago\\OneDrive\\Desktop\\Work fisnihed but gonna die\\HW1\\Chatbot-project\\Nongmakok V.1\\app.py', reloading
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 13:12:59] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 13:13:02] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 13:13:09] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 13:13:12] "POST /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:Error listing files in bucket: An error occurred (AccessDenied) when calling the ListObjectsV2 operation: User: arn:aws:iam::537124961410:user/Chatbot is not authorized to perform: s3:ListBucket on resource: "arn:aws:s3:::depa-demo" because no identity-based policy allows the s3:ListBucket action
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+ERROR:root:Error listing files in bucket: An error occurred (AccessDenied) when calling the ListObjectsV2 operation: User: arn:aws:iam::537124961410:user/Chatbot is not authorized to perform: s3:ListBucket on resource: "arn:aws:s3:::depa-demo" because no identity-based policy allows the s3:ListBucket action
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 13:23:17] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 13:23:21] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 13:23:42] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 13:23:44] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 13:29:32] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:Error calling Bedrock agent: An error occurred (ValidationException) when calling the InvokeModel operation: The provided model identifier is invalid.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 13:29:33] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 13:36:02] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 13:36:05] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\drago\\OneDrive\\Desktop\\Work fisnihed but gonna die\\HW1\\Chatbot-project\\Nongmakok V.1\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 13:38:52] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 13:38:54] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 13:40:36] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 13:40:37] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 13:41:11] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 13:41:14] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 13:41:16] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 13:41:17] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 13:41:18] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\drago\\OneDrive\\Desktop\\Work fisnihed but gonna die\\HW1\\Chatbot-project\\Nongmakok V.1\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 13:43:52] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+INFO:root:Payload: {"inputText": "hi", "textGenerationConfig": {"temperature": 0.7, "topP": 0.9, "maxTokenCount": 50, "stopSequences": ["User:"]}}
+INFO:root:Response: 200, {"Output":{"__type":"com.amazon.coral.service#UnknownOperationException"},"Version":"1.0"}
+INFO:root:Output: {'Output': {'__type': 'com.amazon.coral.service#UnknownOperationException'}, 'Version': '1.0'}
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 13:43:53] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 13:44:25] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+INFO:root:Payload: {"inputText": "\u0e2a\u0e27\u0e31\u0e2a\u0e14\u0e35", "textGenerationConfig": {"temperature": 0.7, "topP": 0.9, "maxTokenCount": 50, "stopSequences": ["User:"]}}
+INFO:root:Response: 200, {"Output":{"__type":"com.amazon.coral.service#UnknownOperationException"},"Version":"1.0"}
+INFO:root:Output: {'Output': {'__type': 'com.amazon.coral.service#UnknownOperationException'}, 'Version': '1.0'}
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 13:44:27] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 13:46:23] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+INFO:root:Payload: {"inputText": "hi", "textGenerationConfig": {"temperature": 0.7, "topP": 0.9, "maxTokenCount": 50, "stopSequences": ["User:"]}}
+INFO:root:Response: 200, {"Output":{"__type":"com.amazon.coral.service#UnknownOperationException"},"Version":"1.0"}
+INFO:root:Output: {'Output': {'__type': 'com.amazon.coral.service#UnknownOperationException'}, 'Version': '1.0'}
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 13:46:25] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\drago\\OneDrive\\Desktop\\Work fisnihed but gonna die\\HW1\\Chatbot-project\\Nongmakok V.1\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 13:48:18] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 13:48:19] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\drago\\OneDrive\\Desktop\\Work fisnihed but gonna die\\HW1\\Chatbot-project\\Nongmakok V.1\\sss.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 15:52:54] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 15:52:56] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 15:54:14] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 15:54:17] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 15:55:51] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 15:55:54] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 15:56:12] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 15:56:12] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:00:08] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:00:10] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:01:23] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:01:26] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\drago\\OneDrive\\Desktop\\Work fisnihed but gonna die\\HW1\\Chatbot-project\\Nongmakok V.1\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:04:45] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:04:50] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:05:03] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:05:04] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:09:50] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:Error fetching Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:09:54] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:10:01] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:Error fetching Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:10:02] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:14:02] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:Error fetching Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:14:04] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:18:57] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:Error fetching Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:19:01] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:19:15] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:Error fetching Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:19:16] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:19:29] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:Error fetching Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:19:34] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\drago\\OneDrive\\Desktop\\Work fisnihed but gonna die\\HW1\\Chatbot-project\\Nongmakok V.1\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug: * Detected change in 'c:\\Users\\drago\\OneDrive\\Desktop\\Work fisnihed but gonna die\\HW1\\Chatbot-project\\Nongmakok V.1\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:21:04] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:Error fetching Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:21:09] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:22:00] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:Error fetching Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:22:02] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:22:50] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:Error fetching Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:22:54] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:23:00] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:Error fetching Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:23:01] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:23:31] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:Error fetching Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:23:35] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:24:59] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:Error fetching Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:25:01] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\drago\\OneDrive\\Desktop\\Work fisnihed but gonna die\\HW1\\Chatbot-project\\Nongmakok V.1\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:25:23] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:Error fetching Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:25:28] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:25:35] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:Error fetching Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:25:37] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:26:04] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:Error fetching Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:26:08] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\drago\\OneDrive\\Desktop\\Work fisnihed but gonna die\\HW1\\Chatbot-project\\Nongmakok V.1\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:28:09] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:Error fetching Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+ERROR:root:Error calling Bedrock: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #/textGenerationConfig/stopSequences: expected maximum item count: 1, found: 3, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:28:12] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:29:20] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:Error fetching Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+ERROR:root:Error calling Bedrock: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #/textGenerationConfig/stopSequences: expected maximum item count: 1, found: 3, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:29:23] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:30:26] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:Error fetching Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+ERROR:root:Error calling Bedrock: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #/textGenerationConfig/stopSequences/0: string [.] does not match pattern ^(\|+|User:)$, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:30:28] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\drago\\OneDrive\\Desktop\\Work fisnihed but gonna die\\HW1\\Chatbot-project\\Nongmakok V.1\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:31:23] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:Error fetching Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+ERROR:root:Error calling Bedrock: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #/textGenerationConfig/stopSequences: expected maximum item count: 1, found: 2, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:31:24] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\drago\\OneDrive\\Desktop\\Work fisnihed but gonna die\\HW1\\Chatbot-project\\Nongmakok V.1\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:32:35] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:Error fetching Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:32:39] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:34:01] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:Error fetching Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:34:03] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:34:50] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:Error fetching Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:34:57] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:36:14] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:Error fetching Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:36:20] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:36:38] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:Error fetching Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:36:41] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:36:50] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:Error fetching Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:36:54] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:39:08] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:Error fetching Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:39:13] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\drago\\OneDrive\\Desktop\\Work fisnihed but gonna die\\HW1\\Chatbot-project\\Nongmakok V.1\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:52:41] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:Error fetching Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: 2 schema violations found, please reformat your input and try again.
+ERROR:root:Error calling Bedrock: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: extraneous key [textGenerationConfig] is not permitted, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:52:42] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:54:29] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:Error calling Bedrock: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: extraneous key [textGenerationConfig] is not permitted, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:54:33] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:56:20] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 16:56:22] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:02:00] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:02:01] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:03:44] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:03:45] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:04:01] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:04:01] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\drago\\OneDrive\\Desktop\\Work fisnihed but gonna die\\HW1\\Chatbot-project\\Nongmakok V.1\\app.py', reloading
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:06:00] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:Error fetching Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:06:04] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\drago\\OneDrive\\Desktop\\Work fisnihed but gonna die\\HW1\\Chatbot-project\\Nongmakok V.1\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:08:40] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:08:44] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:10:05] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:10:13] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:10:52] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:10:55] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:13:00] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e41\u0e1b\u0e25: An error occurred (AccessDeniedException) when calling the TranslateText operation: User: arn:aws:iam::537124961410:user/Chatbot is not authorized to perform: translate:TranslateText because no identity-based policy allows the translate:TranslateText action
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:13:06] "[35m[1mPOST /Chatbot-bankok HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:14:18] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e41\u0e1b\u0e25: An error occurred (AccessDeniedException) when calling the TranslateText operation: User: arn:aws:iam::537124961410:user/Chatbot is not authorized to perform: translate:TranslateText because no identity-based policy allows the translate:TranslateText action
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:14:22] "[35m[1mPOST /Chatbot-bankok HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:17:21] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:17:27] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:20:18] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:20:24] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:23:28] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:23:35] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:23:53] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:23:57] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:24:06] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:24:09] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\drago\\OneDrive\\Desktop\\Work fisnihed but gonna die\\HW1\\Chatbot-project\\Nongmakok V.1\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:25:42] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:25:48] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:25:59] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:26:02] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:26:58] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:27:00] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\drago\\OneDrive\\Desktop\\Work fisnihed but gonna die\\HW1\\Chatbot-project\\Nongmakok V.1\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:28:07] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:28:13] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:28:36] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:28:40] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:30:16] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:30:31] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:31:06] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:31:09] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:31:49] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:31:59] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\drago\\OneDrive\\Desktop\\Work fisnihed but gonna die\\HW1\\Chatbot-project\\Nongmakok V.1\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:33:28] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:33:36] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:34:00] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:34:03] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\drago\\OneDrive\\Desktop\\Work fisnihed but gonna die\\HW1\\Chatbot-project\\Nongmakok V.1\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:34:40] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e40\u0e23\u0e35\u0e22\u0e01 Bedrock: An error occurred (ValidationException) when calling the InvokeModel operation: Invalid Input
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:34:45] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\drago\\OneDrive\\Desktop\\Work fisnihed but gonna die\\HW1\\Chatbot-project\\Nongmakok V.1\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:35:06] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:35:11] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:35:50] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:35:52] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\drago\\OneDrive\\Desktop\\Work fisnihed but gonna die\\HW1\\Chatbot-project\\Nongmakok V.1\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:40:09] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:40:14] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:40:35] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:40:37] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\drago\\OneDrive\\Desktop\\Work fisnihed but gonna die\\HW1\\Chatbot-project\\Nongmakok V.1\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:42:10] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:42:15] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\drago\\OneDrive\\Desktop\\Work fisnihed but gonna die\\HW1\\Chatbot-project\\Nongmakok V.1\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:45:11] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:45:16] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:45:26] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:45:26] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\drago\\OneDrive\\Desktop\\Work fisnihed but gonna die\\HW1\\Chatbot-project\\Nongmakok V.1\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:48:24] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:48:30] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\drago\\OneDrive\\Desktop\\Work fisnihed but gonna die\\HW1\\Chatbot-project\\Nongmakok V.1\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:51:41] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:51:50] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:52:00] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:52:00] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\drago\\OneDrive\\Desktop\\Work fisnihed but gonna die\\HW1\\Chatbot-project\\Nongmakok V.1\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:53:03] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:53:11] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\drago\\OneDrive\\Desktop\\Work fisnihed but gonna die\\HW1\\Chatbot-project\\Nongmakok V.1\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:54:46] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:54:52] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\drago\\OneDrive\\Desktop\\Work fisnihed but gonna die\\HW1\\Chatbot-project\\Nongmakok V.1\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:55:30] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 17:55:36] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\drago\\OneDrive\\Desktop\\Work fisnihed but gonna die\\HW1\\Chatbot-project\\Nongmakok V.1\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:01:01] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:01:07] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\drago\\OneDrive\\Desktop\\Work fisnihed but gonna die\\HW1\\Chatbot-project\\Nongmakok V.1\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:02:37] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:02:42] "[35m[1mPOST /Chatbot-bankok HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:03:49] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:03:55] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:04:47] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:04:53] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:06:22] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:06:28] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:06:50] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:06:57] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:07:35] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:07:41] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:08:00] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:08:03] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:08:34] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:08:37] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:08:47] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:08:51] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:10:25] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:10:32] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:11:27] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:11:30] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:13:07] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:13:15] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:16:11] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:16:19] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:17:02] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:17:09] "[35m[1mPOST /Chatbot-bankok HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:18:09] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:18:16] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:19:06] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:19:12] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:23:02] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:23:09] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:27:51] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:27:58] "[35m[1mPOST /Chatbot-bankok HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:29:22] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:29:25] "[35m[1mPOST /Chatbot-bankok HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:40:31] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:40:33] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:41:48] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:41:49] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:47:03] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base: An error occurred (ValidationException) when calling the InvokeModel operation: Malformed input request: #: required key [inputText] not found, please reformat your input and try again.
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:47:03] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:47:26] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base \u0e08\u0e32\u0e01 S3: Parameter validation failed:
+Invalid bucket name "depa-demo ": Bucket name must match the regex "^[a-zA-Z0-9.\-_]{1,255}$" or be an ARN matching the regex "^arn:(aws).*:(s3|s3-object-lambda):[a-z\-0-9]*:[0-9]{12}:accesspoint[/:][a-zA-Z0-9\-.]{1,63}$|^arn:(aws).*:s3-outposts:[a-z\-0-9]+:[0-9]{12}:outpost[/:][a-zA-Z0-9\-]{1,63}[/:]accesspoint[/:][a-zA-Z0-9\-]{1,63}$"
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:47:30] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:48:59] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base \u0e08\u0e32\u0e01 S3: An error occurred (AccessDenied) when calling the ListObjectsV2 operation: User: arn:aws:iam::537124961410:user/Chatbot is not authorized to perform: s3:ListBucket on resource: "arn:aws:s3:::depa-demo" because no identity-based policy allows the s3:ListBucket action
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:49:07] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:52:42] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base \u0e08\u0e32\u0e01 S3: An error occurred (AccessDenied) when calling the ListObjectsV2 operation: User: arn:aws:iam::537124961410:user/Chatbot is not authorized to perform: s3:ListBucket on resource: "arn:aws:s3:::depa-demo" because no identity-based policy allows the s3:ListBucket action
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 18:52:50] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\drago\\OneDrive\\Desktop\\Work fisnihed but gonna die\\HW1\\Chatbot-project\\Nongmakok V.1\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 231-787-510
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 350-424-515
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:16:48] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base \u0e08\u0e32\u0e01 S3: An error occurred (AccessDenied) when calling the ListObjectsV2 operation: User: arn:aws:iam::537124961410:user/Chatbot is not authorized to perform: s3:ListBucket on resource: "arn:aws:s3:::depa-demo" because no identity-based policy allows the s3:ListBucket action
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:16:56] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:18:15] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base \u0e08\u0e32\u0e01 S3: An error occurred (AccessDenied) when calling the ListObjectsV2 operation: User: arn:aws:iam::537124961410:user/Chatbot is not authorized to perform: s3:ListBucket on resource: "arn:aws:s3:::depa-demo" because no identity-based policy allows the s3:ListBucket action
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:18:20] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:20:20] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base \u0e08\u0e32\u0e01 S3: An error occurred (AccessDenied) when calling the ListObjectsV2 operation: User: arn:aws:iam::537124961410:user/Chatbot is not authorized to perform: s3:ListBucket on resource: "arn:aws:s3:::depa-demo" because no identity-based policy allows the s3:ListBucket action
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:20:27] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:22:07] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base \u0e08\u0e32\u0e01 S3: An error occurred (AccessDenied) when calling the ListObjectsV2 operation: User: arn:aws:iam::537124961410:user/Chatbot is not authorized to perform: s3:ListBucket on resource: "arn:aws:s3:::depa-demo" because no identity-based policy allows the s3:ListBucket action
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:22:12] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 350-424-515
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:32:50] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base \u0e08\u0e32\u0e01 S3: An error occurred (AccessDenied) when calling the ListObjectsV2 operation: User: arn:aws:iam::537124961410:user/Chatbot is not authorized to perform: s3:ListBucket on resource: "arn:aws:s3:::depa-demo" because no identity-based policy allows the s3:ListBucket action
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:32:55] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:33:04] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base \u0e08\u0e32\u0e01 S3: An error occurred (AccessDenied) when calling the ListObjectsV2 operation: User: arn:aws:iam::537124961410:user/Chatbot is not authorized to perform: s3:ListBucket on resource: "arn:aws:s3:::depa-demo" because no identity-based policy allows the s3:ListBucket action
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:33:07] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 350-424-515
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:33:28] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base \u0e08\u0e32\u0e01 S3: An error occurred (AccessDenied) when calling the ListObjectsV2 operation: User: arn:aws:iam::537124961410:user/Chatbot is not authorized to perform: s3:ListBucket on resource: "arn:aws:s3:::depa-demo" because no identity-based policy allows the s3:ListBucket action
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:33:33] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 350-424-515
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:34:34] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base \u0e08\u0e32\u0e01 S3: An error occurred (AccessDenied) when calling the ListObjectsV2 operation: User: arn:aws:iam::537124961410:user/Chatbot is not authorized to perform: s3:ListBucket on resource: "arn:aws:s3:::depa-demo" because no identity-based policy allows the s3:ListBucket action
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:34:39] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:34:43] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base \u0e08\u0e32\u0e01 S3: An error occurred (AccessDenied) when calling the ListObjectsV2 operation: User: arn:aws:iam::537124961410:user/Chatbot is not authorized to perform: s3:ListBucket on resource: "arn:aws:s3:::depa-demo" because no identity-based policy allows the s3:ListBucket action
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:34:46] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 350-424-515
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:35:23] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base \u0e08\u0e32\u0e01 S3: An error occurred (AccessDenied) when calling the ListObjectsV2 operation: User: arn:aws:iam::537124961410:user/Chatbot is not authorized to perform: s3:ListBucket on resource: "arn:aws:s3:::depa-demo" because no identity-based policy allows the s3:ListBucket action
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:35:28] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:35:31] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base \u0e08\u0e32\u0e01 S3: An error occurred (AccessDenied) when calling the ListObjectsV2 operation: User: arn:aws:iam::537124961410:user/Chatbot is not authorized to perform: s3:ListBucket on resource: "arn:aws:s3:::depa-demo" because no identity-based policy allows the s3:ListBucket action
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:35:35] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:35:51] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base \u0e08\u0e32\u0e01 S3: An error occurred (AccessDenied) when calling the ListObjectsV2 operation: User: arn:aws:iam::537124961410:user/Chatbot is not authorized to perform: s3:ListBucket on resource: "arn:aws:s3:::depa-demo" because no identity-based policy allows the s3:ListBucket action
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:35:55] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:36:03] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base \u0e08\u0e32\u0e01 S3: An error occurred (AccessDenied) when calling the ListObjectsV2 operation: User: arn:aws:iam::537124961410:user/Chatbot is not authorized to perform: s3:ListBucket on resource: "arn:aws:s3:::depa-demo" because no identity-based policy allows the s3:ListBucket action
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:36:06] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:36:09] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base \u0e08\u0e32\u0e01 S3: An error occurred (AccessDenied) when calling the ListObjectsV2 operation: User: arn:aws:iam::537124961410:user/Chatbot is not authorized to perform: s3:ListBucket on resource: "arn:aws:s3:::depa-demo" because no identity-based policy allows the s3:ListBucket action
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:36:10] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 350-424-515
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:36:38] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base \u0e08\u0e32\u0e01 S3: An error occurred (AccessDenied) when calling the ListObjectsV2 operation: User: arn:aws:iam::537124961410:user/Chatbot is not authorized to perform: s3:ListBucket on resource: "arn:aws:s3:::depa-demo" because no identity-based policy allows the s3:ListBucket action
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:36:47] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:36:50] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base \u0e08\u0e32\u0e01 S3: An error occurred (AccessDenied) when calling the ListObjectsV2 operation: User: arn:aws:iam::537124961410:user/Chatbot is not authorized to perform: s3:ListBucket on resource: "arn:aws:s3:::depa-demo" because no identity-based policy allows the s3:ListBucket action
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:36:52] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:37:01] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base \u0e08\u0e32\u0e01 S3: An error occurred (AccessDenied) when calling the ListObjectsV2 operation: User: arn:aws:iam::537124961410:user/Chatbot is not authorized to perform: s3:ListBucket on resource: "arn:aws:s3:::depa-demo" because no identity-based policy allows the s3:ListBucket action
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:37:04] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:37:18] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base \u0e08\u0e32\u0e01 S3: An error occurred (AccessDenied) when calling the ListObjectsV2 operation: User: arn:aws:iam::537124961410:user/Chatbot is not authorized to perform: s3:ListBucket on resource: "arn:aws:s3:::depa-demo" because no identity-based policy allows the s3:ListBucket action
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:37:22] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:37:42] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base \u0e08\u0e32\u0e01 S3: An error occurred (AccessDenied) when calling the ListObjectsV2 operation: User: arn:aws:iam::537124961410:user/Chatbot is not authorized to perform: s3:ListBucket on resource: "arn:aws:s3:::depa-demo" because no identity-based policy allows the s3:ListBucket action
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:37:46] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 350-424-515
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:38:11] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base \u0e08\u0e32\u0e01 S3: An error occurred (AccessDenied) when calling the ListObjectsV2 operation: User: arn:aws:iam::537124961410:user/Chatbot is not authorized to perform: s3:ListBucket on resource: "arn:aws:s3:::depa-demo" because no identity-based policy allows the s3:ListBucket action
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:38:38] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 350-424-515
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:39:18] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base \u0e08\u0e32\u0e01 S3: An error occurred (AccessDenied) when calling the ListObjectsV2 operation: User: arn:aws:iam::537124961410:user/Chatbot is not authorized to perform: s3:ListBucket on resource: "arn:aws:s3:::depa-demo" because no identity-based policy allows the s3:ListBucket action
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:39:32] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:39:56] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base \u0e08\u0e32\u0e01 S3: An error occurred (AccessDenied) when calling the ListObjectsV2 operation: User: arn:aws:iam::537124961410:user/Chatbot is not authorized to perform: s3:ListBucket on resource: "arn:aws:s3:::depa-demo" because no identity-based policy allows the s3:ListBucket action
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:40:04] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:40:30] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base \u0e08\u0e32\u0e01 S3: An error occurred (AccessDenied) when calling the ListObjectsV2 operation: User: arn:aws:iam::537124961410:user/Chatbot is not authorized to perform: s3:ListBucket on resource: "arn:aws:s3:::depa-demo" because no identity-based policy allows the s3:ListBucket action
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:40:44] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:41:04] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base \u0e08\u0e32\u0e01 S3: An error occurred (AccessDenied) when calling the ListObjectsV2 operation: User: arn:aws:iam::537124961410:user/Chatbot is not authorized to perform: s3:ListBucket on resource: "arn:aws:s3:::depa-demo" because no identity-based policy allows the s3:ListBucket action
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:41:13] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:41:27] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base \u0e08\u0e32\u0e01 S3: An error occurred (AccessDenied) when calling the ListObjectsV2 operation: User: arn:aws:iam::537124961410:user/Chatbot is not authorized to perform: s3:ListBucket on resource: "arn:aws:s3:::depa-demo" because no identity-based policy allows the s3:ListBucket action
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:41:36] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:41:45] "OPTIONS /Chatbot-bankok HTTP/1.1" 200 -
+ERROR:root:\u0e40\u0e01\u0e34\u0e14\u0e02\u0e49\u0e2d\u0e1c\u0e34\u0e14\u0e1e\u0e25\u0e32\u0e14\u0e43\u0e19\u0e01\u0e32\u0e23\u0e14\u0e36\u0e07 Knowledge Base \u0e08\u0e32\u0e01 S3: An error occurred (AccessDenied) when calling the ListObjectsV2 operation: User: arn:aws:iam::537124961410:user/Chatbot is not authorized to perform: s3:ListBucket on resource: "arn:aws:s3:::depa-demo" because no identity-based policy allows the s3:ListBucket action
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2024 19:41:49] "POST /Chatbot-bankok HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 350-424-515
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 350-424-515
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 350-424-515
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 350-424-515

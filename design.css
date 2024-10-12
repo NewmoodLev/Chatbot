@@ -1,0 +1,141 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin: 0;
+}
+
+.chatbot-container {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    width: 300px;
+    height: 400px;
+    overflow: hidden;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: #fff;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+}
+
+.close-chat {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    background: #ff4757;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.chat-messages {
+    flex: 1;
+    padding: 10px;
+    overflow-y: auto; /* อนุญาตให้เลื่อนแนวตั้ง */
+    display: flex;
+    flex-direction: column;
+    max-height: 300px; /* กำหนดความสูงสูงสุดเพื่อให้สามารถเลื่อน */
+    scrollbar-width: thin; /* สำหรับ Firefox */
+    scrollbar-color: #bbb transparent; /* สำหรับ Firefox */
+}
+
+.chat-messages::-webkit-scrollbar {
+    width: 8px; /* ความกว้างของ scrollbar */
+}
+
+.chat-messages::-webkit-scrollbar-thumb {
+    background-color: #bbb; /* สีของ scrollbar */
+    border-radius: 4px; /* มุมมน */
+}
+
+.chat-messages::-webkit-scrollbar-track {
+    background: transparent; /* สีพื้นหลังของ scrollbar */
+}
+
+.chat-messages div {
+    margin-bottom: 10px;
+    max-width: 80%;
+}
+
+.user-message, .bot-message {
+    align-self: flex-start; /* ชิดซ้าย */
+    padding: 10px;
+    border-radius: 10px;
+    text-align: left; /* จัดข้อความชิดซ้าย */
+}
+
+.user-message {
+    background-color: #e1f5fe;
+    color: #333;
+}
+
+.bot-message {
+    background-color: #bbdefb;
+    color: #007BFF;
+}
+
+.chat-input {
+    display: flex;
+    padding: 10px;
+    border-top: 1px solid #ccc;
+    background-color: #f9f9f9;
+}
+
+.chat-input input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-right: 10px;
+}
+
+.chat-input button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+.chat-input button:hover {
+    background-color: #45a049;
+}
+
+.chat-toggle {
+    background-color: #6200ea;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    padding: 10px 20px;
+    cursor: pointer;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.chat-toggle:hover {
+    background-color: #3700b3;
+    transform: translateY(-3px);
+}
+
+.chat-toggle:active {
+    transform: translateY(1px);
+}
